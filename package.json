@@ -1,0 +1,24 @@
+{
+  "name": "webSocket",
+  "version": "1.0.0",
+  "description": "Websocket demo:https://youtu.be/2Nt-ZrNP22A?t=962",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveeak/webScoketDemoHussein.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveeak/webScoketDemoHussein/issues"
+  },
+  "homepage": "https://github.com/naveeak/webScoketDemoHussein#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
